@@ -28,8 +28,10 @@ This application is designed to automate the process of creating and estimating 
 5. **Output**: The application presents the user with multiple backlog options, along with estimated effort for each.
 
 ## Screenshots
-- ![Home Page](screenshots/homepage.png)
-- ![Estimate Page](screenshots/estimatepage.png)
+
+![Home Page](https://github.com/Doko27/project-estimator-ff-gemini/blob/main/homepage.png)
+
+![Estimate Page](https://github.com/Doko27/project-estimator-ff-gemini/blob/main/estimatepage.png))
 
 ## Key Features
 
